@@ -1,2 +1,2 @@
 # trybe-exercicios
-Exercicios práticos dia a dia
+Exercicios práticos de estudo na trybe!
